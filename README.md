@@ -2,7 +2,7 @@
 Exemplo reposítorio
 
 Participantes
-Paulo Lima 
-Elvis Silva
-Braulio Andrey
-Andrey Chiesa
+Paulo Lima,  
+Elvis Silva, 
+Braulio Andrey, 
+Andrey Chiesa.
