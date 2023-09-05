@@ -1,7 +1,8 @@
 # inverso_projeto_colaborativo
 Exemplo reposítorio
 
-Participantes
+## Participantes
+
 Paulo Lima,  
 Elvis Silva, 
 Braulio Andrey, 
